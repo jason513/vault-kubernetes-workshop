@@ -21,7 +21,7 @@
 - You must clone this repo:
 
     ```text
-    git clone https://github.com/sethvargo/vault-kubernetes-workshop
+    git clone https://github.com/narendrakadali/vault-kubernetes-worksho
     cd vault-kubernetes-workshop
     ```
 
